@@ -5,7 +5,7 @@ const SearchBox = ({ onChange }) => {
   const { Search } = Input
   return (
     <Search
-      placeholder="фильтр по данным таблицы"
+      placeholder="Фильтр по данным таблицы (заголовки, текст)"
       onChange={onChange}
       style={{ marginBottom: 10 }}
     />

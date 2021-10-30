@@ -8,8 +8,11 @@ const SmartTable = () => {
   const [dataToRender, setDataToRender] = useState(initialState)
   const onChange = (e) => {
     return setDataToRender(
-      initialState.filter((item) =>
-        item.body.includes(e.target.value.toLowerCase())
+      // фильтруем по содержимому тела и заголовка
+      initialState.filter(
+        (item) =>
+          item.body.includes(e.target.value.toLowerCase()) ||
+          item.title.includes(e.target.value.toLowerCase())
       )
     )
   }
