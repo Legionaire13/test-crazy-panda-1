@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test-crazy-panda-1/static/css/main.f4c0296e.chunk.css",
+    "main.js": "/test-crazy-panda-1/static/js/main.2b9b347d.chunk.js",
+    "main.js.map": "/test-crazy-panda-1/static/js/main.2b9b347d.chunk.js.map",
+    "runtime-main.js": "/test-crazy-panda-1/static/js/runtime-main.14aa232a.js",
+    "runtime-main.js.map": "/test-crazy-panda-1/static/js/runtime-main.14aa232a.js.map",
+    "static/css/2.a95be28f.chunk.css": "/test-crazy-panda-1/static/css/2.a95be28f.chunk.css",
+    "static/js/2.28b137e6.chunk.js": "/test-crazy-panda-1/static/js/2.28b137e6.chunk.js",
+    "static/js/2.28b137e6.chunk.js.map": "/test-crazy-panda-1/static/js/2.28b137e6.chunk.js.map",
+    "index.html": "/test-crazy-panda-1/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/test-crazy-panda-1/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.f4c0296e.chunk.css.map": "/test-crazy-panda-1/static/css/main.f4c0296e.chunk.css.map",
+    "static/js/2.28b137e6.chunk.js.LICENSE.txt": "/test-crazy-panda-1/static/js/2.28b137e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14aa232a.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.28b137e6.chunk.js",
+    "static/css/main.f4c0296e.chunk.css",
+    "static/js/main.2b9b347d.chunk.js"
+  ]
+}
